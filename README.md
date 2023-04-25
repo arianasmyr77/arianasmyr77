@@ -9,15 +9,15 @@
 
 <table>
   <tr>
-    <th>Project Name</th>
-    <th>Score</th>
+    <th>Project Name 🧠</th>
+    <th>Score 💯</th>
   </tr>
   <tr>
-    <td>Libft</td>
+    <td>Libft 📚</td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2778653" alt="arforouz's 42 Libft Score" /></a></td>
   </tr>
   <tr>
-    <td>ft_printf</td>
+    <td>ft_printf </td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2844857" alt="arforouz's 42 ft_printf Score" /></a></td>
   </tr>
   <tr>
