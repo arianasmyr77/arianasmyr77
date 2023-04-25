@@ -1,4 +1,4 @@
-<h1 style="color: red;" align="center" >🔱  Hello I'm Ariana 😃👋🏻</h1> 
+<h1 style="color: red;" align="center" >🔱 Hello I'm Ariana 😃 👋🏻</h1> 
 
 
 <p align="center">
@@ -17,7 +17,7 @@
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2778653" alt="arforouz's 42 Libft Score" /></a></td>
   </tr>
   <tr>
-    <td>ft_printf </td>
+    <td>ft_printf ✏️</td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2844857" alt="arforouz's 42 ft_printf Score" /></a></td>
   </tr>
   <tr>
