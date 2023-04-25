@@ -1,4 +1,4 @@
-<h1 style="color: red;" align="center" >Hello I'm Ariana 😃👋🏻</h1> 
+<h1 style="color: red;" align="center" >🔱  Hello I'm Ariana 😃👋🏻</h1> 
 
 
 <p align="center">
