@@ -37,11 +37,11 @@
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/3067978" alt="arforouz's 42 push_swap Score" /></a></td>
   </tr>
     <tr>
-    <td>so_long</td>
+    <td>so_long 🎮/td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/3099321" alt="arforouz's 42 so_long Score" /></a></td>
   </tr>
   <tr>
-    <td>Exam02</td>
+    <td>Exam02 </td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/3021857" alt="arforouz's 42 Exam Rank 02 Score" /></a></td>
   </tr>
 </table>
