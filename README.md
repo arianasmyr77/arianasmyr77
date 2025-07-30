@@ -1,47 +1,45 @@
-<h1 style="color: red;" align="center" >🔱 Hello I'm Ariana 😃 👋🏻</h1> 
+ <h1 style="color: red;" align="center">Hi there! 👋 I'm Ariana</h1>
+/*
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="120" alt="Your profile picture" />
+</p>
+*/
+---
 
+🎓 I'm currently a **student at 42 Campus** exploring the world of **software development** and diving deeper into **Artificial Intelligence**.
+
+💡 I love building small projects, learning from them, and improving step by step. Most of what you’ll find here reflects what I’m studying, experimenting with, or genuinely curious about.
+
+---
+
+<h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/stats?cursusId=21&coalitionId=65" alt="arforouz's 42 stats" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </p>
 
-<table>
-  <tr>
-    <th>Project Name 🧠</th>
-    <th>Score 💯</th>
-  </tr>
-  <tr>
-    <td>Libft 📚</td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2778653" alt="arforouz's 42 Libft Score" /></a></td>
-  </tr>
-  <tr>
-    <td>ft_printf ✏️</td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2844857" alt="arforouz's 42 ft_printf Score" /></a></td>
-  </tr>
-  <tr>
-    <td>get_next_line</td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2931588" alt="arforouz's 42 get_next_line Score" /></a></td>
-  </tr>
-  <tr>
-    <td>Born2beroot</td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2916992" alt="arforouz's 42 Born2beroot Score" /></a></td>
-  </tr>
-  <tr>
-    <td>Minitalk</td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2977474" alt="arforouz's 42 minitalk Score" /></a></td>
-  </tr>
-  <tr>
-    <td>Push_swap</td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/3067978" alt="arforouz's 42 push_swap Score" /></a></td>
-  </tr>
-    <tr>
-    <td>so_long 🎮</td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/3099321" alt="arforouz's 42 so_long Score" /></a></td>
-  </tr>
-  <tr>
-    <td>Exam02 </td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/3021857" alt="arforouz's 42 Exam Rank 02 Score" /></a></td>
-  </tr>
-</table>
+---
+
+### 📂 Some of My Projects
+
+<p align="center">
+  
+🔹 **[minitalk](#)** — Client/server message transfer using UNIX signals (bit by bit).  
+🧠 C | UNIX signals
+
+🔹 **[philosophers](#)** — Solution to the classic Dining Philosophers concurrency problem.  
+🧠 C | Threads | Mutexes
+
+🔹 **[phonebook](#)** — Simple CLI phonebook app with formatted search and contact input.  
+🧠 C++ | OOP | Console UI
+
+</p>
+
+> “Start before you’re ready. Show up messy. Just don’t stop.” 
+
+Thanks for visiting my GitHub! 🚀
