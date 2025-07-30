@@ -1,4 +1,5 @@
- <h1 style="color: red;" align="center">Hi there! 👋 I'm Ariana</h1>
+<h1 align="center">💻 Hi there 👋 I'm <span style="color:red">Ariana</span></h1>
+
 
  
 ---
@@ -18,23 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-</p>
-
----
-
-### 📂 Some of My Projects
-
-<p align="center">
-  
-🔹 **[minitalk](#)** — Client/server message transfer using UNIX signals (bit by bit).  
-🧠 C | UNIX signals
-
-🔹 **[philosophers](#)** — Solution to the classic Dining Philosophers concurrency problem.  
-🧠 C | Threads | Mutexes
-
-🔹 **[phonebook](#)** — Simple CLI phonebook app with formatted search and contact input.  
-🧠 C++ | OOP | Console UI
-
 </p>
 
 ---
