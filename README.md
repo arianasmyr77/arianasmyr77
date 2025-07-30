@@ -1,4 +1,6 @@
  <h1 style="color: red;" align="center">Hi there! 👋 I'm Ariana</h1>
+
+ 
 ---
 
 🎓 I'm currently a **student at 42 Campus** exploring the world of **software development** and diving deeper into **Artificial Intelligence**.
@@ -7,9 +9,9 @@
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="left">🛠️ Languages & Tools</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -34,6 +36,8 @@
 🧠 C++ | OOP | Console UI
 
 </p>
+
+---
 
 > “Start before you’re ready. Show up messy. Just don’t stop.” 
 
