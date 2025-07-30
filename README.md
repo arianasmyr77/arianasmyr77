@@ -1,9 +1,4 @@
  <h1 style="color: red;" align="center">Hi there! 👋 I'm Ariana</h1>
-/*
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="120" alt="Your profile picture" />
-</p>
-*/
 ---
 
 🎓 I'm currently a **student at 42 Campus** exploring the world of **software development** and diving deeper into **Artificial Intelligence**.
